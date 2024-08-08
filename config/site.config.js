@@ -19,8 +19,9 @@ module.exports = {
   // The name of your website. Present alongside your icon.
   title: "DHRUB_DXD's OneDrive",
 
-  // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: 'https://itsshweta-my.sharepoint.com/:f:/g/personal/dhrub_dxd_shweta_link/Eqbi66sGdI1Agg5a5F06rmIBs8GRJfDAIANi8-DStiro7Q?e=LDhcRZ', baseDirectory: 'https://itsshweta-my.sharepoint.com/:f:/g/personal/dhrub_dxd_shweta_link/EuMZ1KDam-9EmiTLkV8roP8BeY38j6jVRfQdnoOF39Z6FA?e=0Idcgs',
+  // The folder that you are to share publicly with onedrive-vercel-index. 
+// Use '/' if you want to share your root folder.
+baseDirectory: 'https://itsshweta-my.sharepoint.com/:f:/g/personal/dhrub_dxd_shweta_link/Eqbi66sGdI1Agg5a5F06rmIBs8GRJfDAIANi8-DStiro7Q?e=LDhcRZ',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
